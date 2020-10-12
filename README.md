@@ -10,12 +10,12 @@ The results of the linear model are compared to those of 2 more complex algorith
 
 This project was done in Python, using the  following libraries: numpy, pandas, patsy, statsmodels, sci-kit learn and XGBoost. The project contains the following notebooks:  
 
-- [1_Salary_Prediction_Data_Cleaning_EDA.ipynb](github.com/nicsaunier/Salary_prediction_project/1_Salary_Prediction_Data_Cleaning_EDA.ipynb)
-- [2_Salary_Predictions_Model_Development_Deployment_Interpretation.ipynb](github.com/nicsaunier/Salary_prediction_project/2_Salary_Predictions_Model_Development_Deployment_Interpretation.ipynb)
+- [1_Salary_Prediction_Data_Cleaning_EDA.ipynb](https://github.com/nicsaunier/Salary_prediction_project/blob/master/1_Salary_Prediction_Data_Cleaning_EDA.ipynb)
+- [2_Salary_Predictions_Model_Development_Deployment_Interpretation.ipynb](https://github.com/nicsaunier/Salary_prediction_project/blob/master/2_Salary_Predictions_Model_Development_Deployment_Interpretation.ipynb)
 
 In addition, two python files with helper functions are provided:
-- [Salary_pred_EDA_helpers.py](github.com/nicsaunier/Salary_prediction_project/Salary_pred_EDA_helpers.py)
-- [Salary_pred_model_helpers.py](github.com/nicsaunier/Salary_pred_model_helpers.py)
+- [Salary_pred_EDA_helpers.py](https://github.com/nicsaunier/Salary_prediction_project/blob/master/Salary_pred_EDA_helpers.py)
+- [Salary_pred_model_helpers.py](https://github.com/nicsaunier/Salary_prediction_project/blob/master/Salary_pred_model_helpers.py)
 
 ### Data Cleaning
 
